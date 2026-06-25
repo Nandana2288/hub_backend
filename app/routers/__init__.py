@@ -4,7 +4,7 @@ from app.routers.documents import router as documents_router
 from app.routers.todos import router as todos_router
 from app.routers.admin import router as admin_router
 from app.routers.poll import router as poll_router
-from app.routers.n8n_test import router as n8n_test_router
+from app.routers.n8n_router import router as n8n_test_router
 from app.routers.workflows import router as workflows_router
 from app.routers.notification import router as notification_router
 

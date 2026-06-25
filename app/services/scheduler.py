@@ -23,7 +23,7 @@ def start_scheduler():
 
         
     scheduler.start()
-    print("Scheduler started ✅")
+    print("Scheduler started successfully")
 
 
 def stop_scheduler():
