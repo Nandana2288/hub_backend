@@ -1,11 +1,3 @@
-Reading the active requirements file to convert it into normal text.
-
-Read [](file:///c%3A/Users/nitha/OneDrive/NANDANA/project/hub_backend/requirements.txt#1-1), lines 1 to 200
-
-Ran terminal command: Get-Content -Path requirements.txt -Encoding Unicode
-
-Here is the converted normal text from requirements.txt:
-
 aio-pika==9.6.2  
 aiormq==6.9.4  
 alembic==1.18.4  
